@@ -3,16 +3,16 @@ This is our RentABike website.
 
 
 # to run
-first install React with npm
+first install React npm https://www.npmjs.com/get-npm.
 
 go to command prompt or terminal and type the following:
 
 `npm install -g parcel-bundler`
 
-then find the directory in your terminal where you unziped the downloaded files:
+navigate in your terminal to where you the index.html is located:
 
-example: `cd /C:/Users/name/Downloads/GetABike` and hit enter
+example: `cd /C:/Users/name/Downloads/GetABike` and hit enter, tutorial for this: https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/
 
 then type the following command:
 
-`parcel serve index.html`
+`parcel index.html`
