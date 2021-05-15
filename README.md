@@ -16,3 +16,7 @@ example: `cd /C:/Users/name/Downloads/GetABike` and hit enter, tutorial for this
 then type the following command:
 
 `parcel index.html`
+
+copy the link and paste it in your browser:
+
+`http://localhost:1234`
