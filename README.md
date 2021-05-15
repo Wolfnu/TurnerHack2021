@@ -1,5 +1,5 @@
-# ubereats-clone
-My own take on Ubereats
+# RentABike
+This is our RentABike website.
 
 
 # to run
