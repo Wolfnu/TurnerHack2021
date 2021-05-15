@@ -19,4 +19,4 @@ then type the following command:
 
 copy the link and paste it in your browser:
 
-`http://localhost:1234`
+example: `http://localhost:1234`
