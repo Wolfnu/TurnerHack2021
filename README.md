@@ -11,7 +11,7 @@ go to command prompt or terminal and type the following:
 
 navigate in your terminal to where you the index.html is located:
 
-example: `cd /C:/Users/name/Downloads/GetABike` and hit enter, tutorial for this: https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/
+example: `cd /C:/Users/name/Downloads/GetABike` and hit enter, tutorial for this: https://riptutorial.com/cmd/example/8646/navigating-in-cmd
 
 then type the following command:
 
